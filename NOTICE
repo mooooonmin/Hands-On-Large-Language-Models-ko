@@ -1,0 +1,16 @@
+Hands-On Large Language Models - 한국어 번역판 (Korean translation)
+
+This repository is an unofficial Korean translation of
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+(based on upstream commit ea33908), by Jay Alammar and Maarten Grootendorst,
+licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Changes made in this translation:
+- Markdown cells and code comments in the chapter notebooks were translated into Korean.
+  Code, prompts, cell outputs and metadata were left unchanged.
+- README.md, bonus/*.md, chapter*/README.md and .setup/ guides were translated into Korean.
+- "Open in Colab" links were pointed at this Korean repository.
+- A short translation notice was added to each notebook header and to README.md.
+
+이 저장소는 원본 저장소를 한국어로 번역한 비공식 번역본입니다.
+원본의 저작권은 원저자에게 있으며, Apache License 2.0을 따릅니다.
